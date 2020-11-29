@@ -1,5 +1,5 @@
 ### Hi there 👋
-I’m currently working on Humo Academy\
+I’m currently working at Humo Academy\
 I’m currently learning markdown syntax
 
 <!--
