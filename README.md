@@ -1,6 +1,6 @@
 ### Hi there 👋
 I’m currently working at Humo Academy\
-I’m currently learning markdown syntax
+I’m currently teaching markdown syntax
 
 <!--
 **dsurush/dsurush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
