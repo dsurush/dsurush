@@ -1,6 +1,5 @@
 ### Hi there 👋
-I’m currently working at MDO ZUDAMAL\
-I’m currently teaching Golang at Humo Academy
+I’m currently working at HAMKORBANK
 
 <!--
 **dsurush/dsurush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
